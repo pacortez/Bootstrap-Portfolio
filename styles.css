@@ -32,6 +32,10 @@ h2 {
     color: #e98074;
 }
 
+h4 {
+    text-align: center;
+}
+
 #me {
     margin: 0px;
     
@@ -48,7 +52,7 @@ h2 {
 }
 
 p {
-    text-align: center;
+    text-align: ;
     
 }
 
